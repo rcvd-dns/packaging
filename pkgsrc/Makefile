@@ -6,7 +6,7 @@ MASTER_SITES=	${MASTER_SITE_GITHUB:=rcvd-dns/}
 GITHUB_PROJECT=	rcvd
 GITHUB_TAG=	v${PKGVERSION_NOREV}
 
-MAINTAINER=	drixter@netbsd.org
+MAINTAINER=	drixter@e-utp.net
 HOMEPAGE=	https://rcvd.net/
 COMMENT=	Privacy-first encrypted DNS engine (DoQ/DoT/DoH, no cleartext)
 LICENSE=	mit
